@@ -38,7 +38,7 @@ Generated map from file:
 Kill all enemies and get to the campfire. The counter of bullets is limited, so take care of your ammunition. Remember one bullet can kill more than one ghost.
 
 ### Gameplay
-
+**Click in the image**
 [![Little red riding hood](https://i.ibb.co/mh6s3YV/mapa.png)](https://www.youtube.com/watch?v=Zq48caiot7g&ab_channel=KacperDominiak "Little red riding hood - Click to Watch!")
 
 ### Imporatnant
