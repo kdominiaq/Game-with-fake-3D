@@ -41,6 +41,6 @@ Kill all enemies and get to the campfire. The counter of bullets is limited, so 
 **Click in the image**
 [![Little red riding hood](https://i.ibb.co/mh6s3YV/mapa.png)](https://www.youtube.com/watch?v=Zq48caiot7g&ab_channel=KacperDominiak "Little red riding hood - Click to Watch!")
 
-### Imporatnant
-This is my first own project, that was created for learing basics of C++. So please forgive me for the general mess in the code and polish name's of varaibles.
+### Important
+This is my first own project, that was created for learing basics of C++. So please forgive me for the general mess in the code and polish names of varaibles.
 
